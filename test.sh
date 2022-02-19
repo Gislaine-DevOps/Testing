@@ -10,4 +10,5 @@ echo "My password is"
 read password
 echo "Welcome to everyone who enter in our company"
 echo "$name"
+echo "Thank you"
 date
